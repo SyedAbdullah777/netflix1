@@ -1,0 +1,19 @@
+#logo1{
+    height: 80px;
+    width: 20%;
+    margin-top: -10px;
+}
+#buttons{
+    margin-left: 1050px;
+    margin-top: -50px;
+}
+#nav{
+    background-color: black;
+    height: 80px;
+}
+#background{
+    margin-top: 0px;
+}
+#login{
+    background-color: red;
+}
